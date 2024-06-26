@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">ProyecForTests</string>
+    <string name="user">Usuario</string>
+    <string name="name">Nombre</string>
+    <string name="password">Password</string>
+    <string name="enter_yourt_passwor_here">Ingresa tu contraseña aqui</string>
+    <string name="enter_yourt_email_here">Ingresa tu email aqui</string>
+    <string name="enter_your_name_here">Ingresa tu nombre aqui</string>
+    <string name="load">Cargar</string>
+    <string name="user_updated">Usuario Actualizado</string>
+    <string name="id">ID</string>
+    <string name="enter_your_id_here">ingresa tu ID aqui</string>
+    <string name="update">Actualizar</string>
+    <string name="email">Email</string>
 </resources>
